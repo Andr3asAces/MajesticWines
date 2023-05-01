@@ -1,6 +1,6 @@
 # MajesticWines
 
-In this project I attempt to webscrappe a website to compare prices of red wines.
+In this project I am looking to find the best quality wine for valentines day. 
 
 - Use scrappy to webscrape and download the data.
 
