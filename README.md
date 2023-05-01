@@ -10,4 +10,4 @@ In this project I am looking to find the best quality wine for valentines day.
 
 Fun fact: Did you know Penfolds 'Grange 2017' worth almost 600 pounds? ( I bought the Dark Horse )
 
-Note: The main file is winespider.py 
+Note: The main file sits in winescraper>spiders>winespider.py 
