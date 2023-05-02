@@ -1,4 +1,5 @@
 # MajesticWines
+<img>Wine.png<img/>
 
 In this project I am looking to find the best quality wine for valentines day. 
 
