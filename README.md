@@ -1,5 +1,6 @@
 # MajesticWines
-<img>Wine.png<img/>
+
+![wine](https://user-images.githubusercontent.com/83903964/235653622-07ca6cb9-7d66-454e-831e-cf576e9889be.png)
 
 In this project I am looking to find the best quality wine for valentines day. 
 
